@@ -1,2 +1,3 @@
 This  describes what each scipt does
 0-current_working_directory- this script print current working directory 
+1-listit- this script list contents of current working directory
