@@ -3,4 +3,5 @@ This  describes what each scipt does
 1-listit- this script list contents of current working directory
 2-bring_me_home script return you to home directory
 3-listfiles- list the contents of the current working directory in long format
-4-listmorefiles- list in long format including the hidden files  
+4-listmorefiles- list in long format including the hidden files
+5-listfilesdigitonly- users and group ID display in numerical order, long format listing   
